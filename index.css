@@ -15,7 +15,22 @@ main {
     border-radius: 5px;
     padding: 2rem 0;
   }
+  #gallery {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .artObject {
+      max-width: 80%;
+      max-height: 20rem;
+      margin: 1rem;
+  }
 
   h1 {
       margin: 3rem 1rem 6rem 1rem;
+  }
+
+  h2 {
+      margin: auto 2rem;
   }
