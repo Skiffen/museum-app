@@ -54,7 +54,7 @@ main {
         border: 1px solid #999;
         min-height: 2rem;
         font-size: 0.9rem;
-        font-family: 'Arial'
+        font-family: 'Arial';
     }
     button {
         font: inherit;
