@@ -23,6 +23,7 @@ const nameDoesNotStartWithUppercase = name => {
     return name
     }
 }
+
 const submitComment = () => {
     const inputField = document.getElementById('name');
     let name = inputField.value;
